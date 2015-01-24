@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1826E90A139E17FF0017BB23 /* ABContentUtil.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 344}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	18B022B2139F78BC00C608C7 /* English */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{124, 89}, {1104, 641}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SkinDialer */ = {
+		activeExec = 0;
+		executables = (
+			66C0B596139FAD58006AEE85 /* SkinDialer */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 66C0B596139FAD58006AEE85 /* SkinDialer */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SkinDialer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SkinDialer */,
+		);
+		codeSenseManager = 66C0B5C8139FAD96006AEE85 /* Code sense */;
+		executables = (
+			66C0B596139FAD58006AEE85 /* SkinDialer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					426,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329235916;
+			PBXWorkspaceStateSaveDate = 329235916;
+		};
+		perUserProjectItems = {
+			66BFBF47139FBEE20045F781 /* PBXTextBookmark */ = 66BFBF47139FBEE20045F781 /* PBXTextBookmark */;
+			66BFBF48139FBEE20045F781 /* PlistBookmark */ = 66BFBF48139FBEE20045F781 /* PlistBookmark */;
+			66BFBF49139FBEE20045F781 /* PBXTextBookmark */ = 66BFBF49139FBEE20045F781 /* PBXTextBookmark */;
+			66BFBF4A139FBEE20045F781 /* PBXTextBookmark */ = 66BFBF4A139FBEE20045F781 /* PBXTextBookmark */;
+			66BFBF65139FBF8A0045F781 /* PBXTextBookmark */ = 66BFBF65139FBF8A0045F781 /* PBXTextBookmark */;
+			66C0B5E4139FB846006AEE85 /* PBXTextBookmark */ = 66C0B5E4139FB846006AEE85 /* PBXTextBookmark */;
+			66C0B628139FB95F006AEE85 /* PBXBookmark */ = 66C0B628139FB95F006AEE85 /* PBXBookmark */;
+			66C0B646139FBB66006AEE85 /* PlistBookmark */ = 66C0B646139FBB66006AEE85 /* PlistBookmark */;
+		};
+		sourceControlManager = 66C0B5C7139FAD96006AEE85 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	66BFBF47139FBEE20045F781 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826E90A139E17FF0017BB23 /* ABContentUtil.h */;
+		name = "ABContentUtil.h: 11";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	66BFBF48139FBEE20045F781 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B022B2139F78BC00C608C7 /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/Adam/Documents/SkinDialer/English.lproj/SkinDialer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	66BFBF49139FBEE20045F781 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66C0B63F139FBB36006AEE85 /* zh_CN */;
+		name = "Localizable.strings: 1";
+		rLen = 21;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	66BFBF4A139FBEE20045F781 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66C0B5C9139FADD9006AEE85 /* English */;
+		name = "Localizable.strings: 1";
+		rLen = 37;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	66BFBF65139FBF8A0045F781 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66C0B5C9139FADD9006AEE85 /* English */;
+		name = "InfoPlist.strings: 12";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	66C0B596139FAD58006AEE85 /* SkinDialer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SkinDialer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	66C0B5C7139FAD96006AEE85 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	66C0B5C8139FAD96006AEE85 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	66C0B5C9139FADD9006AEE85 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 650}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 573}";
+		};
+	};
+	66C0B5E4139FB846006AEE85 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66C0B5E5139FB846006AEE85 /* Localizable.strings */;
+		name = "Localizable.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	66C0B5E5139FB846006AEE85 /* Localizable.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = Localizable.strings;
+		path = /Users/Adam/Documents/SkinDialer/Localizable.strings;
+		sourceTree = "<absolute>";
+	};
+	66C0B628139FB95F006AEE85 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B0230A139F7AEC00C608C7 /* Default.png */;
+	};
+	66C0B63F139FBB36006AEE85 /* zh_CN */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 624}}";
+			sepNavSelRange = "{0, 21}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	66C0B646139FBB66006AEE85 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 66C0B63E139FBB0A006AEE85 /* zh_CN */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Adam/Documents/SkinDialer/zh_CN.lproj/SkinDialer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}

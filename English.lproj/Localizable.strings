@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  SkinDialer
+
+  Created by Adam on 11-6-20.
+  Copyright 2011年 __MyCompanyName__. All rights reserved.
+*/
+"CFBundleDisplayName" = "SkinDialer";
+
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Answer" = "Answer";
+
+/* CallViewController */
+"Hide Keypad" = "Hide Keypad";
+"mute" = "mute";
+"keypad" = "keypad";
+"audio source" = "audio source";
+"add call" = "add call";
+"hold" = "hold";
+"speaker" = "speaker";
+"bluetooth" = "bluetooth";
+"calling" = "calling ...";
+
+/* AKSIPUserAgent */
+"Incoming Call" = "Incoming Call";
+"Missed Call" = "Missed Call";
+"Open" = "Open";
+
+/* BottomButtonBar / BottomDualButtonBar */
+"End" = "End";
+"End Call + Answer" = "End Call + Answer";
+"Decline" = "Decline";
+
+/* AppSettings / SiphonAppDelegate */
+"Settings" = "Settings";
+
+/* PeoplePickerTableViewController */
+"Contacts" = "Contacts";
+
+/* PhoneViewController */
+"Keypad" = "Keypad";
+"Create New Contact" = "Create New Contact";
+"Add to Existing Contact" = "Add to Existing Contact";
+
+/* RecentCall */
+"Unknown" = "Unknown";
+
+/* RecentsViewController */
+"Recents" = "Recents";
+"RecentCalls" = "Recent Calls";
+"All" = "All";
+"Missed" = "Missed";
+"Clear" = "Clear";
+"Clear All Recents" = "Clear All Recents";
+
+/* Invite friends */
+"Back" = "Back";
+"OK" = "OK";
+"Submit" = "Submit";
+"Note" = "Note";
+
+"More" = "More";
+"SNS" = "SNS";
+"Invite Friends" = "Invite Friends";
+"Help" = "Help";
+"FeedBack" = "FeedBack";
+"About" = "About";
+"WeiXun" = "WeiXun";
+"LogOut" = "LogOut";
+
+"Invite by mobile From Contacts" = "Invite by mobile From Contacts";
+"Invite by mail From Contacts" = "Invite by email From Contacts";
+"Invite by mobile" = "Invite by Mobile";
+"Invite by mail" = "Invite by Email";
+
+"Please Input Mobile" = "Please Input Mobile";
+"Please Input Mail" = "Please Input EMail";

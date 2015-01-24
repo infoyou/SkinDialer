@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  SkinDialer
+
+  Created by Adam on 11-6-20.
+  Copyright 2011年 __MyCompanyName__. All rights reserved.
+*/
+"CFBundleDisplayName" = "电话";
+
+"OK" = "OK";
+"Cancel" = "取消";
+"Answer" = "接听";
+
+/* CallViewController */
+"Hide Keypad" = "隐藏键盘";
+"mute" = "静音";
+"keypad" = "键盘";
+"audio source" = "audio source";
+"add call" = "add call";
+"hold" = "保持";
+"speaker" = "免提";
+"bluetooth" = "蓝牙";
+"calling" = "稍等 ...";
+
+/* BottomButtonBar / BottomDualButtonBar */
+"End" = "End";
+"End Call + Answer" = "End Call + Answer";
+"Decline" = "Decline";
+
+/* Settings  */
+"Settings" = "设置";
+
+/* Contacts */
+"Contacts" = "通讯录";
+"ContactCall" = "呼叫联系人";
+"ContactSms" = "发送短消息";
+
+/* PhoneViewController */
+"Keypad" = "键盘";
+"Create New Contact" = "创建新联系人";
+"Add to Existing Contact" = "添加到现有联系人";
+
+/* RecentCall */
+"Unknown" = "未知";
+"Recents" = "最近通话";
+"RecentCalls" = "最近通话";
+"All" = "全部电话";
+"Missed" = "未接电话";
+"Clear" = "清除";
+"Clear All Recents" = "清除所有记录";
+
+/* Invite friends */
+"Back" = "返回";
+"OK" = "确定";
+"Submit" = "提交";
+"Note" = "提示";
+
+"More" = "更多";
+"SNS" = "设置SNS账号";
+"Invite Friends" = "邀请好友";
+"Help" = "帮助";
+"FeedBack" = "用户反馈";
+"About" = "关于";
+"WeiXun" = "WeiXun";
+"LogOut" = "注销";
+
+"Invite by mobile From Contacts" = "扫描通讯录手机号找人";
+"Invite by mail From Contacts" = "扫描通讯录Email找人";
+"Invite by mobile" = "手机号码邀请";
+"Invite by mail" = "Email邀请";
+
+"Please Input Mobile" = "输入手机号码";
+"Please Input Mail" = "输入EMail";
